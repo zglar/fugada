@@ -200,6 +200,7 @@ header p {
 
     .main-logo-container p {
         font-size: 80%;
+        margin-top: 15px;
     }
 
     .main-logo-image {
