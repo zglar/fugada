@@ -213,6 +213,10 @@ header p {
         width: 20%;
         top: -40px;
     }
+    
+    .logo-variations-content {
+        top: -10px;
+    }
 
     .logogram-content {
         width: 40%;
