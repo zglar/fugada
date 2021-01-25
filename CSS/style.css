@@ -186,7 +186,7 @@ header p {
 
 @media only screen and (max-width: 1024px) and (min-width: 767px) {
     header p {
-        font-size: 85%;
+        font-size: 80%;
     }
     
     .main-logo-container {
