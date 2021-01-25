@@ -176,10 +176,6 @@ header p {
     display: block;
 }
 
-.img-bg {
-    background-color: #FFF;
-}
-
 .logogram-content h2 {
     font-style: italic;
     font-family: "Poppins";
@@ -208,6 +204,13 @@ header p {
 
     .main-logo-image {
         margin: 20px auto;
+    }
+
+    .logo-variations h2 {
+        font-size: 95%;
+        padding: 20px;
+        width: 20%;
+        top: -40px;
     }
 
     .logogram-content {
